@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BHydTwo" size="1.000000 1.414516" />
+    <ImageTarget name="BOxyg" size="1.000000 1.414516" />
+    <ImageTarget name="BNa" size="1.000000 1.414516" />
+    <ImageTarget name="BHyd" size="1.000000 1.414516" />
+    <ImageTarget name="BCl" size="1.000000 1.414516" />
+    <ImageTarget name="Ox" size="1.000000 1.399657" />
+    <ImageTarget name="Na" size="1.000000 1.356209" />
+    <ImageTarget name="Hy" size="1.000000 1.448649" />
+    <ImageTarget name="Cl" size="1.000000 1.342105" />
+  </Tracking>
+</QCARConfig>

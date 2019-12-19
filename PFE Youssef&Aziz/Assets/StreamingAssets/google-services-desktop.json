@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "962970690011",
+    "firebase_url": "https://educatemeboi.firebaseio.com",
+    "project_id": "educatemeboi",
+    "storage_bucket": "educatemeboi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962970690011:android:1c441be5789903b1",
+        "android_client_info": {
+          "package_name": "com.yusuf.education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962970690011-rb9qs6nvcvgbl85mu6c5koa1j5llhu9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIrya7kG6UxhymhEUBPtBPM5ZVQjquFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

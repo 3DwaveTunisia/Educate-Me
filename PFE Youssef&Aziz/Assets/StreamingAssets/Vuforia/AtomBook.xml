@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="8" size="2.000000 3.137255" />
+    <ImageTarget name="7" size="2.000000 3.192020" />
+    <ImageTarget name="6" size="2.000000 3.192020" />
+    <ImageTarget name="5" size="2.000000 3.026005" />
+    <ImageTarget name="4" size="2.000000 3.129584" />
+    <ImageTarget name="3" size="2.000000 3.180124" />
+    <ImageTarget name="2" size="2.000000 3.043902" />
+    <ImageTarget name="1" size="2.000000 3.114355" />
+    <ImageTarget name="atomok" size="1.000000 0.705489" />
+  </Tracking>
+</QCARConfig>
